@@ -1,0 +1,4 @@
+250
+Simple|Give a talk|Speak in Sacrament meeting when asked|100|True
+Eternal|Study the scriptures|Study for at least 10 minutes|50
+Checklist|Attend the temple|Attend and performany ordinance|50|3|500|1
